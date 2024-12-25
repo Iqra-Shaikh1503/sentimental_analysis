@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+keras
+tensorflow
+bs4
+=======
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+keras
+tensorflow
+>>>>>>> bf39c27c4385beeac68481d02f1993e06dd7f20b
